@@ -14,3 +14,5 @@ The AWS services used in this project by me are:
 My resume which acts as a website hosted on AWS has been coded completely by me using front-end languages such as HTML, CSS and JavaScript.
 
 I have used Python language to create AWS Lambda functions to communicate with DynamoDB to display the views on the website.
+
+I have used Terraform for automation of uploading files to S3 bucket.
