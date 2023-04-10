@@ -8,6 +8,8 @@ The AWS services used in this project by me are:
 3. Route 53
 4. AWS Lambda
 5. DynamoDB
+6. AWS Certificate Manager (ACM)
+
 
 My resume which acts as a website hosted on AWS has been coded completely by me using front-end languages such as HTML, CSS and JavaScript.
 
