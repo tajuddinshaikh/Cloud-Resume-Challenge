@@ -1,0 +1,29 @@
+h1{
+  font-family: 'Segoe UI', sans-serif;  
+  color:darkblue;
+  text-align: center;
+}
+h4{
+    text-align: center;
+    margin: auto;
+}
+h2{
+    font-family: 'Segoe UI', sans-serif;  
+  color:darkblue;
+
+}
+
+main{
+    font-family: 'Segoe UI',sans-serif;
+}
+.exp{
+    text-align: left;
+    font-family: 'Segoe UI', sans-serif;  
+    
+}
+.date{
+    font-weight: normal;
+}
+.edu{
+    margin-top: 8px;
+}
